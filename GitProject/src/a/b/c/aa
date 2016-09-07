@@ -1,8 +1,0 @@
-package a.b.c;
-
-public class aa {
-
-	public void oneTo(){
-		System.out.println("hello one!");
-	}
-}
