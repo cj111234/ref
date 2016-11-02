@@ -5,6 +5,6 @@ public class one {
 	public void oneTo(){
 		System.out.println("xxx!");
 		
-		System.out.println("込込込d!");
+		System.out.println("aaa込込d!");
 	}
 }
