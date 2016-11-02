@@ -5,6 +5,6 @@ public class one {
 	public void oneTo(){
 		System.out.println("xxx!");
 		
-		System.out.println("aaa¹þ¹þd!");
+		System.out.println("fff!");
 	}
 }
